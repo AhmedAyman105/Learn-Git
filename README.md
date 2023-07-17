@@ -37,3 +37,39 @@
 ### git pull origin or remote name
 
 - fetch new changes on the remote and merge them with the local repo
+
+### git config --list or git config --l
+
+- list all configuration of git
+
+### git help config
+
+- Manual of all configurations
+
+### git config --global user.name
+
+- Get user name of the global config
+
+### git config --global user.email
+
+- Get user email of the global config
+
+### git config --global user.name "name here"
+
+- set user name of the global config
+
+### git config --global user.email "email here"
+
+- set user email of the global config
+
+### git config -l --show-origin
+
+- Display from where git get configurations
+
+### git config --global --unset user.name
+
+- Remove user name , value = ""
+
+### git config --global --edit
+
+- Edit configurations using editor
