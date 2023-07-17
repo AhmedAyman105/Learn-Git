@@ -29,3 +29,11 @@
 ### git push remote_repo_name branch_name
 
 - Publish local commits to the remote repo
+
+### git clone repo_url
+
+- Get clone from the remote repo into your local pc
+
+### git pull origin or remote name
+
+- fetch new changes on the remote and merge them with the local repo
