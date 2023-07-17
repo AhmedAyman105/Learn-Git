@@ -73,3 +73,15 @@
 ### git config --global --edit
 
 - Edit configurations using editor
+
+### git init
+
+- initialize an empty repo
+
+### git remote add origin url
+
+- make a connection with the remote repo
+
+### git push -u origin main
+
+- pull last changes then push if there is no conflict
