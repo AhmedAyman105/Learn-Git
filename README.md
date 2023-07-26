@@ -85,3 +85,30 @@
 ### git push -u origin main
 
 - pull last changes then push if there is no conflict
+
+### git config --global alias.st status
+
+- Make st alias for status command
+
+### git config --global alias.st 
+
+- to know which command related to this alias
+
+### git config --global alias.cm "commit -m"
+
+- Make cm alias for commit -m command
+
+### git config --global --edit
+
+- will found alias and can edit it through editor
+
+> Some Global Alias
+
+1- git config --global alias.p 'push'
+
+2- git config --global alias.st 'status'
+
+3- git config --global alias.cm 'commit -m'
+
+4- git config --global alias.rv 'remote -v'
+
