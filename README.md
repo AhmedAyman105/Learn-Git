@@ -179,7 +179,30 @@
 
 - delete all stashes 
 
+### git restore --staged file_name or *
 
+- remove the file from stagging area
 
+### git clean -n 
 
+- display files to be removed 
 
+### git clean -f
+
+- remove files 
+
+### reset 
+
+- remove commits
+
+### head 
+
+- pointer that points to the last commit 
+
+### git reset --hard #hash
+
+- remove all commits after that hash 
+
+### git push origin main --force 
+
+- update the remote repo 
