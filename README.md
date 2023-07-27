@@ -221,3 +221,42 @@
 - git add text.txt -f => add it by force 
 
 > search about git ignore patterns 
+
+### git tag
+
+- display available tags 
+
+light weight tag => take it's message from commit
+
+### git tag v1.0
+
+- create tag v1.0
+
+### git push origin v1.0
+
+- push the tag to remote 
+
+### git -a tag v2.0 -m "annotated tag"
+
+### git tag -l "v1.*"
+
+- list all tags of v1
+
+### git tag -d v1.0
+
+- delete v1.0 locally 
+
+### git push origin --delete v1.0
+
+- delete v1.0 remote
+
+
+### References 
+
+- https://git-scm.com/docs/git-add
+
+- https://support.nesi.org.nz/hc/en-gb/articles/360001508515-Git-Reference-Sheet
+
+
+
+
