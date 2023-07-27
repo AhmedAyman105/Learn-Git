@@ -112,3 +112,36 @@
 
 4- git config --global alias.rv 'remote -v'
 
+### git branch 
+
+- Display all branches 
+
+### git branch new
+
+- create branch called new
+
+### git checkout new
+
+- switch to the new branch
+
+### git branch -d new => Safe delete
+
+- delete the branch after checking if there is edits or not  
+
+### git branch -D new => Force delete
+
+- delete the branch even there is edits
+
+### git checkout -b new_branch
+
+- Create a new branch called new_branch and go to it
+
+### git branch -m newname
+
+- rename the current branch
+
+### git merge branch_name
+
+- merge the branch_name with the master branch (current)
+
+
