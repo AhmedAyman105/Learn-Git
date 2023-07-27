@@ -145,3 +145,41 @@
 - merge the branch_name with the master branch (current)
 
 
+### git stash => every stash have unique id
+
+- save file (hide)
+
+### git stash list
+
+### git stash pop 
+
+- drop saved file (last one) and delete the stash
+
+### git stash save "message"
+
+- save stash with message
+
+### git stash apply
+
+- rop saved file (last one) and doesn't delete the stash
+
+### git pop stash@{1}
+
+- drop a specific stash not the last one
+
+### git stash drop 
+
+- delete the last stash
+
+### git stash show 
+
+- display what is inside a stash (last one)
+
+### git stash clear
+
+- delete all stashes 
+
+
+
+
+
