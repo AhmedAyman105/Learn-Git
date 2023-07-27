@@ -206,3 +206,18 @@
 ### git push origin main --force 
 
 - update the remote repo 
+
+### touch .gitignore
+### code .gitignore
+
+- *.log => any file with extension .log ignore it
+
+- !vip.log => except this
+
+- py_packs/ => ignore any folder called py_packs
+
+- text.txt => specific file
+
+- git add text.txt -f => add it by force 
+
+> search about git ignore patterns 
